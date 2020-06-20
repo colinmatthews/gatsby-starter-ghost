@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://colinmatthewsco.herokuapp.com",
-    "contentApiKey": "ffa1c591a229173008d16bd3f6"
+    "apiUrl": "https://gatsby.ghost.io",
+    "contentApiKey": "9cc5c67c358edfdd81455149d0"
   },
   "production": {
-    "apiUrl": "https://colinmatthewsco.herokuapp.com",
-    "contentApiKey": "ffa1c591a229173008d16bd3f6"
+    "apiUrl": "https://gatsby.ghost.io",
+    "contentApiKey": "9cc5c67c358edfdd81455149d0"
   }
 }
